@@ -793,9 +793,9 @@ p {
     top: 0;
     height: 100%;
     width: 50%;
-    background-image: url(../images/banner-1.jpg);
+    background-image: url(../images/st_cianan_conference_header_closer.png);
     background-size: cover;
-    background-position: right center;
+    background-position: center;
     background-repeat: no-repeat;
     z-index: -2; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -834,17 +834,17 @@ p {
           line-height: 60px; } }
       .banner-area .banner-content .title span {
         font-weight: 600;
-        text-transform: uppercase; }
+        text-transform: capitalize; }
         @media only screen and (min-width: 1200px) and (max-width: 1600px) {
           .banner-area .banner-content .title span {
             font-size: 62px; } }
         .banner-area .banner-content .title span span {
           font-weight: 500;
           text-transform: capitalize;
-          color: #F26427; }
+          color: #1B79C1; }
     .banner-area .banner-content > span {
       font-size: 30px;
-      text-transform: capitalize;
+      
       letter-spacing: 6px;
       padding-top: 15px;
       font-weight: 300; }
@@ -884,7 +884,7 @@ p {
     left: 56%;
     bottom: 75px;
     z-index: 1;
-    background: #ef5b51;
+    background: #1B79C1;
     transform: translateX(-50%);
     animation: scale-up-three linear 15s infinite; }
   .banner-area .banner-shape-2 {
@@ -1923,7 +1923,8 @@ p {
 .project-case-area .project-case-item:hover .project-case-content .title {
   color: #F26427; }
 .project-case-area.project-home {
-  padding-top: 117px; }
+  padding-top: 117px;
+  padding-bottom: 100px; }
 
 /*===========================
     7    .TEAM css 
@@ -2630,11 +2631,18 @@ p {
     10.BLOG css 
 ===========================*/
 .blog-item .blog-thumb {
+  border-radius: 5%;
+  object-fit: cover;
+  width: 350px;
+  height: 223px;
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .blog-area {
-  padding-top: 116px;
-  padding-bottom: 124px; }
+  padding-top: 100px;
+  padding-bottom: 100px; }
   .blog-area .blog-item .blog-thumb a {
     position: relative;
     overflow: hidden;
@@ -2654,7 +2662,7 @@ p {
       top: 0;
       height: 100%;
       width: 100%;
-      background-color: rgba(1, 84, 247, 0.6);
+      /* background-color: rgba(1, 84, 247, 0.6); */
       z-index: 5; }
   .blog-area .blog-item .blog-content {
     padding-top: 22px; }
@@ -4156,7 +4164,8 @@ p {
     16.CASE STUDY css 
 ===========================*/
 .case-study-area {
-  padding-top: 117px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   background: #eceff3; }
   .case-study-area .section-title .title {
     padding-bottom: 50px; }

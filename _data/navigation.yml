@@ -9,8 +9,8 @@
     url: index-3
 - text: About
   url: /about
-- text: Blog
-  url: /blog
+- text: News
+  url: /news
 - text: Services
   url: /services
 - text: Pages
