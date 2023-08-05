@@ -678,7 +678,7 @@ p {
         transform: translateY(-50%); } }
     .header-nav .navigation .navbar .navbar-btn a {
       background: #F26427;
-      color: #222;
+      color: #fff;
       position: relative;
       font-size: 14px;
       font-weight: 700;
