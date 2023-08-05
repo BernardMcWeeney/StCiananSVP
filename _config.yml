@@ -1,7 +1,7 @@
-title: "Trade -  Multipurpose Business & Corporate Jekyll Template"
+title: "St Cianán's Conference of The Society of St. Vincent de Paul"
 email: "themeaffairs@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
- Trade - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+ St Cianán's Conference of The Society of St. Vincent de Paul
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tradejk.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: "https://www.facebook.com/jekyll"
@@ -11,8 +11,8 @@ pinterest_url: "https://www.pinterest.com/rubel8525"
 linkedin_url: "https://www.linkenin.com/rubel8525"
 instagram_url: "https://www.instagram.com/rubel8525"
 youtube_url: "https://youtube.com/rubel2585"
-logo: "/assets/images/logo.png"
-logo_2: "/assets/images/footer-logo.png"
+logo: "/assets/images/St_Cianan_Conference.png"
+logo_2: "/assets/images/St_Cianan_Conference_dbg.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 
 permalink: "/:title"
