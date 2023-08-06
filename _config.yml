@@ -122,6 +122,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  news:
+    output: true
+    permalink: /news/:path/
 
 defaults:
   - scope:
